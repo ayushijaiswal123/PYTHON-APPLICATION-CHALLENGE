@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NotepadPython", "NotepadPython\NotepadPython.pyproj", "{DADAD259-C147-43BF-A7FA-0B03B52CED44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADAD259-C147-43BF-A7FA-0B03B52CED44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADAD259-C147-43BF-A7FA-0B03B52CED44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA49C8A7-5E8E-4D63-B8D5-EF72AF15DFEA}
+	EndGlobalSection
+EndGlobal
